@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fireEnemy
+  - iceEnemy
+  - lightningEnemy
+  - fireball
+  - manager
+  - playerbody
+  - floor
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - enemies
+  - enemies collision blocker
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 3095546111
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
